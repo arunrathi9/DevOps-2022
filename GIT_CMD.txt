@@ -1,0 +1,9 @@
+This is the file for the git command used in this project
+
+-- nano fileName # to create and write into a new file
+-- git init repo_path # to initialise a new repo
+-- git commit fileName # to commit the changes
+-- git remote add origin Git_repor_URL # to add the remote git
+-- git remote show origin # to check the details of remote git repo
+-- git push origin master # to push the commit to master branch
+
