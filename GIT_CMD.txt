@@ -7,3 +7,12 @@ This is the file for the git command used in this project
 -- git remote show origin # to check the details of remote git repo
 -- git push origin master # to push the commit to master branch
 
+## Command for Jenkins course
+git clone https://github.com/udbc/bootcamp.git
+--redirect to bootcamp/setup and run docker-compose.yml
+docker-compose up -d jenkins --> To start the jenkins
+
+--user admin
+ and password - admin123
+
+-- SQL server id - root; password - root1234
