@@ -16,3 +16,7 @@ docker-compose up -d jenkins --> To start the jenkins
  and password - admin123
 
 -- SQL server id - root; password - root1234
+
+# Activate Virtual Environment in VS Code [MacOS]
+python3 -m venv .venv
+source .venv/bin/activate
